@@ -32,6 +32,10 @@ RECIPES = {
         'ingredients': {'gorgonzola': 4, 'pepper': 5, 'onion': 4, 'ham': 3},
         'price': 12,
     },
+    loulou': {
+        'ingredients': {'mozzarella': 4, 'olive': 5, 'onion': 4, 'ham': 3},
+        'price': 10,
+    },
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
